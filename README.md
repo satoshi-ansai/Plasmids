@@ -1,2 +1,4 @@
 # Plasmids
-Custom-made plasmid information
+Unpublished plasmid information and sequences.
+
+Contact: Satoshi Ansai (satoshi.ansai.e7@tohoku.ac.jp)
